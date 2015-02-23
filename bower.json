@@ -1,0 +1,7 @@
+{
+  "name": "broccoli-soup",
+  "dependencies": {
+    "jquery": "~1.11.2",
+    "normalize.css": "~3.0.2"
+  }
+}
