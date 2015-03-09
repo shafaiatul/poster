@@ -23,12 +23,16 @@ var LIVERELOAD_PORT = 35729;
 var isProduction = env === 'production';
 
 var vendorScripts = [
-  'jquery/dist/jquery.js'
+  'jquery/dist/jquery.js',
+  'spectrum/spectrum.js'
 ];
 
 var vendorStyles = [
-  'normalize.css/normalize.css'
+  'normalize.css/normalize.css',
+  'spectrum/spectrum.css'
 ];
+
+
 
 var options = {};
 
